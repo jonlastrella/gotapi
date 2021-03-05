@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  text-align: center;
+  margin-top: 5%;
+}
+.house {
+  display: flex;
+  justify-content: space-between;
+}
+.house img {
+  width: 450px;
+  height: 500px;
+}
+.house-details {
+  width: 50%;
+  margin: auto;
+  padding: 50px;
+  border: 1px solid black;
+}
